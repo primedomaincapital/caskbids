@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://caskbids.com/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://caskbids.com/insights/article1</loc>
@@ -35,5 +35,17 @@
   <url>
     <loc>https://caskbids.com/insights/article6</loc>
     <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://caskbids.com/insights/article7</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://caskbids.com/insights/article8</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://caskbids.com/insights/article9</loc>
+    <lastmod>2026-11-19</lastmod>
   </url>
 </urlset>
