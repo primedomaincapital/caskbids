@@ -1,0 +1,16 @@
+# CaskBids.com — Whole Whisky Casks, Sold at Auction
+> Whole whisky casks, sold at auction.
+> A direct, memorable name for a whisky-cask auction platform serving collectors, cask owners, distilleries, and brokers.
+> The caskbids.com domain is for sale at $7,888 (Buy Now) via Afternic, secured by Escrow.com.
+
+## Key pages
+- [caskbids.com — Home](https://caskbids.com/)
+- [Market data](https://caskbids.com/market-data)
+- [Resources](https://caskbids.com/resources)
+- [Whisky Cask Auctions: The Hammer Falls on Whole Casks](https://caskbids.com/insights/article1)
+- [Trust Is the Whole Business](https://caskbids.com/insights/article2)
+- [Scotch, Bourbon, and the Rest of the World](https://caskbids.com/insights/article3)
+- [The £50 Million Warning: Fraud Moves In Where Prices Fall](https://caskbids.com/insights/article4)
+
+## Optional
+- [Sitemap](https://caskbids.com/sitemap.xml)
